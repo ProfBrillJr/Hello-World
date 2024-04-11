@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(64, 64, 136);
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+
+body{
+    background-color: rgb(64, 64, 136);
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(64, 64, 136);
+    color: white;
+    border-top: 1px solid gray;
+}
+
+h2{
+    color: orange;
+}
+
+#aluno{
+    font-weight: bold;
+}
+
+#texto-ingles{
+    font-style: italic;
+}
